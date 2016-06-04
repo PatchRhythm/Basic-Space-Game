@@ -1,5 +1,5 @@
 # My-First-Java-Game
-My first Java game. Project is not complete and work in progress. 
+My first Java game. Project is not 100% complete, and issue is mentioned in the issues section. Next project will have more features and hopefully not have anything unresolved. 
 
 This project will be the first of many projects, that spawn my coding skills, while having fun making games and exploring my coding skills. 
 
