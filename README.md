@@ -1,5 +1,5 @@
 # My-First-Java-Game
-My first Java game. Project is not 100% complete, and issue is mentioned in the issues section. Next project will have more features and hopefully not have anything unresolved. 
+This is just a demo, and it does not currently have a re-spawn method, score, or a restart button. You just hit the x and run it again. But all the code was typed and coded by me, and critiqued for accuracy. 
 
 This project will be the first of many projects, that spawn my coding skills, while having fun making games and exploring my coding skills. 
 
