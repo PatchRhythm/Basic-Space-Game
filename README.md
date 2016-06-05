@@ -9,9 +9,11 @@ For the moment, I like Java and I'll keep committing stuff in Java. Seems logica
 
 Basic instructions on how to run the game:
 
-This is a simple Java applet. Any system that has Java JRE installed can run a program coded in java without any special software. 
+This is a simple Java applet. Any system that has Java installed can run a program coded in java without any special software. You should be able to just click or right click->open with->Oracle Java 8.
 
 The game right now, destroys enemies but having the player collide with them directly using the arrow controlled player object, which in this case is a ship. I'm in the process of adding projectiles. 
+
+At the current screensize, I do not see any lag in movement or animation, which is a very good thing. :-)
 
 The game runs as a basic program loop, it generates enemies, you quash them with your ship, and they disappear. Click on x to close, and feel free to run again. 
 
