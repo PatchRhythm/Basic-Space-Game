@@ -8,7 +8,7 @@ For the moment, I like Java and I'll keep committing stuff in Java. Seems logica
 
 Basic instructions on how to run the game:
 
-This is a simple Java JAR (compressed archive). Any system that has Java installed can run a program coded in java without any special software. You should be able to just click or right click->open with->Oracle Java 8.
+This is a simple Java JAR (compressed archive). Any system that has Java installed can run a program coded in Java without any special software. You should be able to just click or right click->open with->Oracle Java 8.
 
 The game right now, destroys enemies but having the player collide with them directly using the arrow controlled player object, which in this case is a ship. I'm in the process of adding projectiles.
 
