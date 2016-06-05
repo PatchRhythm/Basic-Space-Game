@@ -12,3 +12,7 @@ Basic instructions on how to run the game:
 This is a simple Java applet. Any system that has Java JRE installed can run a program coded in java without any special software. 
 
 The game right now, destroys enemies but having the player collide with them directly using the arrow controlled player object, which in this case is a ship. I'm in the process of adding projectiles. 
+
+The game runs as a basic program loop, it generates enemies, you quash them with your ship, and they disappear. Click on x to close, and feel free to run again. 
+
+Keep checking back for future improvments. 
